@@ -1,0 +1,6 @@
+*.pickle
+.ipynb_checkpoints
+/ml-25m
+*.zip
+*.tsv
+.DS_store
